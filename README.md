@@ -50,6 +50,7 @@ Página web con formulario y rutas dinámicas optimizadas para SEO.
 #### 📦 Sistema de Control de Stock (Laravel)
 
 Aplicación de gestión de stock desarrollada con Laravel.
+
 **Características:**
 
 * Backend robusto con Laravel 11
@@ -65,6 +66,7 @@ Aplicación de gestión de stock desarrollada con Laravel.
 #### 📊 Sistema Administrativo Stock / Ventas (Angular + Supabase + Firebase)
 
 Aplicación web responsive para visualización de datos y administración.
+
 **Características:**
 
 * Frontend en Angular 19 con Angular Material
