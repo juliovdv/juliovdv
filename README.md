@@ -68,8 +68,6 @@ Aplicación de gestión de stock desarrollada con Laravel.
 - Arquitectura modular
 - Blade UI + Heroicons
 
-🔗 [Repositorio Backend (Laravel)](https://github.com/juliovdv/control-stock-laravel)
-
 ---
 
 ### 📊 Sistema Administrativo Stock/Ventas (Angular + Supabase + Firebase)
@@ -82,8 +80,6 @@ Aplicación web responsive para visualización de datos y administración.
 - Supabase para autenticación y base de datos
 - Firebase para hosting
 - Gráficos con `chart.js` y `ng2-charts`
-
-🔗 [Repositorio Frontend (Angular)](https://github.com/juliovdv/admin-dashboard-angular)
 
 ---
 
