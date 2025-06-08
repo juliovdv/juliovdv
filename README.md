@@ -41,6 +41,44 @@ Página web con formulario y rutas dinámicas optimizadas para SEO.
 
 ---
 
+¡Perfecto! Gracias por la aclaración. Entonces te separo los dos proyectos correctamente y actualizo la sección en Markdown para tu perfil de GitHub o README general:
+
+---
+
+### 🧪 Proyectos personales y de práctica
+
+#### 📦 Sistema de Control de Stock (Laravel)
+
+Aplicación de gestión de stock desarrollada con Laravel.
+**Características:**
+
+* Backend robusto con Laravel 11
+* Autenticación y control de permisos con `spatie/laravel-permission`
+* CRUD de productos y categorías
+* Arquitectura modular y escalable
+* Interfaz administrativa usando Blade y componentes Heroicons
+
+🔗 [Repositorio Backend (Laravel)](https://github.com/juliovdv/control-stock-laravel)
+
+---
+
+#### 📊 Sistema Administrativo Stock / Ventas (Angular + Supabase + Firebase)
+
+Aplicación web responsive para visualización de datos y administración.
+**Características:**
+
+* Frontend en Angular 19 con Angular Material
+* Integración con Supabase (auth y base de datos)
+* Autenticación, gráficos interactivos (`chart.js`, `ng2-charts`)
+* Firebase para hosting
+
+🔗 [Repositorio Frontend (Angular)](https://github.com/juliovdv/admin-dashboard-angular)
+
+---
+
+¿Querés que agregue alguna demo, captura de pantalla o instrucciones rápidas para levantar los proyectos también?
+
+
 ### 📚 Actualmente aprendiendo
 - Laravel 
 - Angular / Supabase / Firebase
@@ -54,4 +92,4 @@ Página web con formulario y rutas dinámicas optimizadas para SEO.
 
 ---
 
-<p align="center">💼 Abierto a oportunidades remotas y proyectos freelance</p>
+<p align="center">💼 Abierto a oportunidades remotas</p>
